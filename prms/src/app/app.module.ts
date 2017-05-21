@@ -6,12 +6,16 @@ import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { LoginpageComponent } from './loginpage/loginpage.component';
 import { HomeComponent } from './home/home.component';
+import { PatientsComponent } from './patients/patients.component';
+import { SharingComponent } from './sharing/sharing.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginpageComponent,
-    HomeComponent
+    HomeComponent,
+    PatientsComponent,
+    SharingComponent
   ],
   imports: [
     BrowserModule,

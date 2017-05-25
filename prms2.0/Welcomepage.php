@@ -1,3 +1,5 @@
+<?php
+?>
 <!DOCTYPE html>
 <html lang="en" class="bg-dark">
 <head>
@@ -23,13 +25,13 @@
                     <h6>Patient Records Sharing System</h6>
             </div>
             <div class="list-group bg-info auto m-b-sm m-b-lg">
-                <a href="LoginFirstResponders.html" class="list-group-item">
+                <a href="LoginFirstResponders.php" class="list-group-item">
                     <i class="fa fa-chevron-right icon-muted"></i>
                     <i class="fa fa-fw fa-home icon-muted"></i> First Responders </a>
                 <a href="Login.html" class="list-group-item">
                     <i class="fa fa-chevron-right icon-muted"></i>
                     <i class="fa fa-fw fa-question icon-muted"></i> Medical Professionals </a>
-                <a href="Welcomepage.html" class="list-group-item">
+                <a href="Welcomepage.php" class="list-group-item">
                     <i class="fa fa-chevron-right icon-muted"></i> <span class="badge bg-info lt">021-215-584</span> <i
                         class="fa fa-fw fa-phone icon-muted"></i> Call us </a></div>
         </div>

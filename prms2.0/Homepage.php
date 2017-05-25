@@ -1,3 +1,5 @@
+<?php
+?>
 <!DOCTYPE html>
 <html lang="en" class="app">
 <head>
@@ -17,12 +19,12 @@
     <header class="bg-white header header-md navbar navbar-fixed-top-xs box-shadow">
         <div class="navbar-header aside-md dk"><a class="btn btn-link visible-xs"
                                                   data-toggle="class:nav-off-screen,open" data-target="#nav,html"> <i
-                class="fa fa-bars"></i> </a> <a href="Homepage.html" class="navbar-brand"> <img src="images/logo.png"
-                                                                                             class="m-r-sm" alt="scale">
+                class="fa fa-bars"></i> </a> <a href="Homepage.php" class="navbar-brand"> <img src="images/logo.png"
+                                                                                               class="m-r-sm" alt="scale">
             <span class="hidden-nav-xs">PRSS</span> </a> <a class="btn btn-link visible-xs" data-toggle="dropdown"
                                                              data-target=".user"> <i class="fa fa-cog"></i> </a></div>
         <ul class="nav navbar-nav hidden-xs">
-            <li class="dropdown"><a href="Homepage.html" class="dropdown-toggle" data-toggle="dropdown"> <i
+            <li class="dropdown"><a href="Homepage.php" class="dropdown-toggle" data-toggle="dropdown"> <i
                     class="i i-grid"></i> </a>
 
             </li>

@@ -115,6 +115,35 @@
                                             <th width="15%">Blood Group</th>
                                             <th width="15">Allergies</th>
                                         </tr>
+                                        <tr>
+                                            <td>Sharon Frank</td>
+                                            <td>
+                                                023425
+                                            </td>
+                                            <td>18</td>
+                                            <td>AAR</td>
+                                            <td>B</td>
+                                            <td>Sulphur,Manganese</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Lucas James</td>
+                                            <td>342552
+                                            </td>
+                                            <td>34</td>
+                                            <td>Muhimbili</td>
+                                            <td>A</td>
+                                            <td>Sulphur,iron</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Daniel Reily</td>
+                                            <td>
+3453453
+                                            </td>
+                                            <td>23</td>
+                                            <td>Regency</td>
+                                            <td>O</td>
+                                            <td>None</td>
+                                        </tr>
                                         </thead>
                                         <tbody></tbody>
                                     </table>

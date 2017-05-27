@@ -28,7 +28,7 @@
                 <a href="LoginFirstResponders.php" class="list-group-item">
                     <i class="fa fa-chevron-right icon-muted"></i>
                     <i class="fa fa-fw fa-home icon-muted"></i> First Responders </a>
-                <a href="login.html" class="list-group-item">
+                <a href="login.php" class="list-group-item">
                     <i class="fa fa-chevron-right icon-muted"></i>
                     <i class="fa fa-fw fa-question icon-muted"></i> Medical Professionals </a>
                 <a href="Welcomepage.php" class="list-group-item">

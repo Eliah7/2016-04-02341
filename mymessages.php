@@ -20,11 +20,11 @@
     <header class="bg-black header header-md navbar navbar-fixed-top-xs box-shadow">
         <div class="navbar-header aside"><a class="btn btn-link visible-xs" data-toggle="class:nav-off-screen,open"
                                             data-target="#nav,html"> <i class="fa fa-bars"></i> </a> <a
-                href="index.html" class="navbar-brand"> <img src="images/logo.png" class="m-r-sm" alt="scale"> <span
-                    class="hidden-nav-xs">Scale</span> </a> <a class="btn btn-link visible-xs" data-toggle="dropdown"
+                href="index.php" class="navbar-brand"> <img src="images/logo.png" class="m-r-sm" alt="scale"> <span
+                    class="hidden-nav-xs">PRSS</span> </a> <a class="btn btn-link visible-xs" data-toggle="dropdown"
                                                                data-target=".user"> <i class="fa fa-cog"></i> </a></div>
-        <ul class="nav navbar-nav hidden-xs">
-            <li class="dropdown"><a href="mail.html#" class="dropdown-toggle" data-toggle="dropdown"> <i
+        <!--<ul class="nav navbar-nav hidden-xs">
+            <li class="dropdown"><a href="index.php" class="dropdown-toggle" data-toggle="dropdown"> <i
                         class="i i-grid"></i> </a>
                 <section class="dropdown-menu aside-lg bg-white on animated fadeInLeft">
                     <div class="row m-l-none m-r-none m-t m-b text-center">
@@ -65,7 +65,7 @@
                                 </a></div>
                         </div>
                     </div>
-                </section>
+                </section>-->
             </li>
         </ul>
         <form class="navbar-form navbar-left input-s-lg m-t m-l-n-xs hidden-xs" role="search">
@@ -85,9 +85,9 @@
                         <div class="panel-heading b-light bg-light"><strong>You have <span class="count">2</span>
                                 notifications</strong></div>
                         <div class="list-group list-group-alt"><a href="mail.html#" class="media list-group-item"> <span
-                                    class="pull-left thumb-sm"> <img src="images/a0.png" alt="..."
+                                    class="pull-left thumb-sm"> <img src="images/faces6.jpeg" alt="..."
                                                                      class="img-circle"> </span> <span
-                                    class="media-body block m-b-none"> Use awesome animate.css<br> <small
+                                    class="media-body block m-b-none"><br> <small
                                         class="text-muted">10 minutes ago</small> </span> </a> <a href="mail.html#"
                                                                                                   class="media list-group-item">
                                 <span class="media-body block m-b-none"> 1.0 initial released<br> <small class="text-muted">1 hour ago</small> </span>
@@ -100,7 +100,7 @@
                 </section>
             </li>
             <li class="dropdown"><a href="mail.html#" class="dropdown-toggle" data-toggle="dropdown"> <span
-                        class="thumb-sm avatar pull-left"> <img src="images/a0.png" alt="..."> </span> John.Smith <b
+                        class="thumb-sm avatar pull-left"> <img src="images/faces6.jpeg" alt="..."> </span>Constantine Kirwanda <b
                         class="caret"></b> </a>
                 <ul class="dropdown-menu animated fadeInRight">
                     <li><span class="arrow top"></span> <a href="mail.html#">Settings</a></li>
@@ -137,8 +137,8 @@
                                 </ul>
                             </div>
                             <div class="line dk"></div>
-                            <div class="padder m-t">Labels</div>
-                            <ul class="nav nav-pills nav-stacked no-radius m-t-sm">
+                            <!--<div class="padder m-t">Labels</div>-->
+                            <!--<ul class="nav nav-pills nav-stacked no-radius m-t-sm">
                                 <li><a href="mail.html#"> <i
                                             class="fa fa-circle-o text-warning pull-right m-t-xs m-r-xs"></i> Work </a></li>
                                 <li><a href="mail.html#"> <i class="fa fa-circle-o pull-right m-t-xs m-r-xs"></i>
@@ -146,7 +146,7 @@
                                 <li><a href="mail.html#"> <i
                                             class="fa fa-circle-o text-success pull-right m-t-xs m-r-xs"></i> Clients </a>
                                 </li>
-                            </ul>
+                            </ul>-->
                         </div>
                     </section>
                     <footer class="footer dker hidden-xs text-center"><a href="mail.html#chat"
@@ -189,84 +189,25 @@
                             <section class="scrollable hover w-f">
                                 <ul class="list-group auto no-radius m-b-none m-t-n-xxs list-group-lg">
                                     <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a0.png" class="img-circle"> </a> <a href="mail.html#"
+                                            <img src="images/faces6.jpeg" class="img-circle"> </a> <a href="index.php"
                                                                                                  class="clear text-ellipsis">
                                             <small class="pull-right">3 minuts ago</small>
-                                            <strong class="block">Drew Wllon</strong>
-                                            <small>Wellcome and play this web application template</small>
+                                            <strong class="block">Eliah Mbwilo</strong>
+                                            <small>About the cancer patient</small>
                                         </a></li>
                                     <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a1.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
-                                            <small class="pull-right">1 hour ago</small>
-                                            <strong class="block">Jonathan George</strong>
-                                            <small>Morbi nec nunc condimentum</small>
-                                        </a></li>
-                                    <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a2.png" class="img-circle"> </a> <a href="mail.html#"
+                                            <img src="images/faces6.jpeg" class="img-circle"> </a> <a href="index.php"
                                                                                                  class="clear text-ellipsis">
                                             <small class="pull-right">2 hours ago</small>
-                                            <strong class="block">Josh Long</strong>
-                                            <small>Vestibulum ullamcorper sodales nisi nec</small>
+                                            <strong class="block">Trevor Noah</strong>
+                                            <small>This is a prss presentation</small>
                                         </a></li>
                                     <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a3.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
-                                            <small class="pull-right">1 day ago</small>
-                                            <strong class="block">Jack Dorsty</strong>
-                                            <small>Morbi nec nunc condimentum</small>
-                                        </a></li>
-                                    <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a4.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
-                                            <small class="pull-right">3 days ago</small>
-                                            <strong class="block">Morgen Kntooh</strong>
-                                            <small>Mobile first web app for startup</small>
-                                        </a></li>
-                                    <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a5.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
-                                            <small class="pull-right">Jun 21</small>
-                                            <strong class="block">Yoha Omish</strong>
-                                            <small>Morbi nec nunc condimentum</small>
-                                        </a></li>
-                                    <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a6.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
-                                            <small class="pull-right">May 10</small>
-                                            <strong class="block">Gole Lido</strong>
-                                            <small>Vestibulum ullamcorper sodales nisi nec</small>
-                                        </a></li>
-                                    <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a7.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
-                                            <small class="pull-right">Jan 2</small>
-                                            <strong class="block">Jonthan Snow</strong>
-                                            <small>Morbi nec nunc condimentum</small>
-                                        </a></li>
-                                    <li class="list-group-item" href="#email-content" data-toggle="class:show"><a
-                                            href="mail.html#" class="thumb-sm pull-left m-r-sm"> <img
-                                                src="images/a8.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                class="clear text-ellipsis">
-                                            <small class="pull-right">3 minuts ago</small>
-                                            <strong class="block">Drew Wllon</strong>
-                                            <small>Vestibulum ullamcorper sodales nisi nec sodales nisi nec sodales nisi
-                                                nec
-                                            </small>
-                                        </a></li>
-                                    <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a9.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
-                                            <small class="pull-right">1 hour ago</small>
-                                            <strong class="block">Jonathan George</strong>
-                                            <small>Morbi nec nunc condimentum</small>
-                                        </a></li>
-                                    <li class="list-group-item"><a href="mail.html#" class="thumb-sm pull-left m-r-sm">
-                                            <img src="images/a0.png" class="img-circle"> </a> <a href="mail.html#"
-                                                                                                 class="clear text-ellipsis">
+                                            <img src="images/faces6.jpeg" class="img-circle"> </a> <a href="index.php"
+                                                                                                      class="clear text-ellipsis">
                                             <small class="pull-right">2 hours ago</small>
-                                            <strong class="block">Josh Long</strong>
-                                            <small>Vestibulum ullamcorper sodales nisi nec</small>
+                                            <strong class="block">Kelvin Mbwilo</strong>
+                                            <small>About UXD treatment</small>
                                         </a></li>
                                 </ul>
                             </section>
@@ -289,11 +230,11 @@
                                                                     class="pull-left m-r-sm"><i
                                             class="fa fa-star-o fa-lg text"></i><i
                                             class="fa fa-star text-warning fa-lg text-active"></i></a> <h4 class="m-n">
-                                        Kickoff Meeting</h4></div>
+                                        My messages</h4></div>
                                 <div>
                                     <div class="block clearfix wrapper b-b"><a href="mail.html#"
                                                                                class="thumb-xs inline"><img
-                                                src="images/a0.png" class="img-circle"></a> <span class="inline">Mika Sokeil &lt;mica_sokeil@gmail.com&gt; to me</span>
+                                                src="images/faces6.jpeg" class="img-circle"></a> <span class="inline">Eliah Mbwilo &lt;eliahmbwilo7@gmail.com&gt; to me</span>
                                         <div class="pull-right inline">May 12 (<em>4 days ago</em>)
                                             <div class="btn-group">
                                                 <button class="btn btn-default btn-xs" data-toggle="tooltip"
@@ -313,15 +254,9 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="wrapper"><p>Mr. Soe</p>
-                                        <p class="text-lt">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                            Morbi id neque quam. Aliquam sollicitudin venenatis ipsum ac feugiat.
-                                            Vestibulum ullamcorper sodales nisi nec condimentum. Mauris convallis mauris
-                                            at pellentesque volutpat. Phasellus at ultricies neque, quis malesuada
-                                            augue. Donec eleifend condimentum nisl eu consectetur. Integer eleifend,
-                                            nisl venenatis consequat iaculis, lectus arcu malesuada sem, dapibus porta
-                                            quam lacus eu neque.</p>
-                                        <blockquote><em>Morbi nec nunc condimentum, egestas dui nec, fermentum diam.
+                                    <div class="wrapper"><p>Mr. Kirwanda</p>
+                                        <p class="text-lt">This is about the cancer patient you sent to me last september.</p>
+                                       <!-- <blockquote><em>Morbi nec nunc condimentum, egestas dui nec, fermentum diam.
                                                 Vivamus vel tincidunt libero, vitae elementum ligula. Nunc placerat purus
                                                 quam, ac adipiscing arcu rutrum eu. Vestibulum adipiscing ut augue ut
                                                 auctor. Vestibulum nec lorem imperdiet nibh mollis gravida ut a
@@ -351,7 +286,7 @@
                                                 quam. Aliquam sollicitudin venenatis ipsum ac feugiat. Vestibulum
                                                 ullamcorper sodales nisi nec condimentum. Mauris convallis mauris at
                                                 pellentesque volutpat. Phasellus at ultricies neque, quis malesuada
-                                                augue. Donec eleifend</p></div>
+                                                augue. Donec eleifend</p></div>-->
                                         <p>Best Regards<br>Mical</p></div>
                                 </div>
                                 <div class="wrapper"> Click here to <a href="mail.html#">Reply</a> or <a
@@ -359,7 +294,7 @@
                             </section>
                         </section>
                     </aside> <!-- /.aside -->
-                    <aside class="aside bg-primary lt " id="chat">
+                    <!--<aside class="aside bg-primary lt " id="chat">
                         <section class="vbox animated fadeInRight">
                             <header class="dk header"><p>Contacts (25)</p></header>
                             <section class="scrollable">
@@ -385,7 +320,7 @@
                                 </button>
                             </footer>
                         </section>
-                    </aside>
+                    </aside>-->
                 </section>
             </section>
         </section>

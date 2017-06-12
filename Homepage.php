@@ -67,9 +67,9 @@
                                             class="i i-statistics icon"> </i> <span class="font-bold">My Messages</span>
                                     </a></li>
 
-                                    <li><a href="index.html#" class="auto"> <span class="pull-right text-muted"> <i
+                                    <li><a href="Addusers.php" class="auto"> <span class="pull-right text-muted"> <i
                                             class="i i-circle-sm-o text"></i> <i class="i i-circle-sm text-active"></i> </span>
-                                        <i class="i i-lab icon"> </i> <span class="font-bold">Account Settings</span> </a>
+                                        <i class="i i-lab icon"> </i> <span class="font-bold">Users</span> </a>
 
                                     </li>
 
